@@ -5,7 +5,7 @@ A simple [Chef Handler](http://wiki.opscode.com/display/chef/Exception+and+Repor
 
 We use this as a simple method to communicate to other automation that Chef has failed and to take action.
 
-## Installation:
+### Installation:
 
 There are a [few ways to distribute](http://wiki.opscode.com/display/chef/Distributing+Chef+Handlers) Chef handlers, I opt for using the super handy [chef_handler cookbook](https://github.com/opscode-cookbooks/chef_handler).
 
