@@ -15,7 +15,6 @@
 require "rubygems"
 require "chef"
 require "chef/handler"
-require "chef/config"
 
 class FailFileHandler < Chef::Handler
   attr_writer :failFile
